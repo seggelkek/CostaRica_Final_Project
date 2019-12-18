@@ -1,6 +1,6 @@
 # Geospatial Analysis of Costa Rica
 
-Costa Rica is located in Central America, comprised of 51,100 square kilometers of land. The country is bordered by Nicaragua to the north and Panama to the south. Additionally, it is situated between the Caribbean Sea (along the 185 mile northeastern coastline) and the Pacific Ocean (along the 630 mile southwestern coastline). 
+Costa Rica is located in Central America and is comprised of 51,100 square kilometers of land. The country is bordered by Nicaragua to the north and Panama to the south. Additionally, it is situated between the Caribbean Sea (along the 185 mile northeastern coastline) and the Pacific Ocean (along the 630 mile southwestern coastline). 
 
 ## Political Subdivisions of Costa Rica
 
