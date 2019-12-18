@@ -10,6 +10,8 @@ Costa Rica is composed of provinces, cantons, and districts. Within Costa Rica, 
 
 The map above provides a general overview of the country’s provinces, along with a more specified view of two: the provinces of Guanacaste and Limón. (Due to the influence of tourism in both of these areas, I was hoping to focus on these provinces for later analysis. However, due to their high population numbers, I had to select different areas for subsequent analysis.)
 
+## Population Distribution of Costa Rica
+
 ## Modeling the Population of Costa Rica
 
 ![](all.png)
