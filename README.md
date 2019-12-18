@@ -4,7 +4,7 @@ Costa Rica is located in Central America and is comprised of 51,100 square kilom
 
 ## Political Subdivisions of Costa Rica
 
-Costa Rica is composed of provinces, cantons, and districts. Within Costa Rica, there are 7 provinces each composed of a series of cantons, totaling to 81 cantons throughout the country. Each of these cantons are then further divided into districts (totaling to 473 districts country wide). 
+Costa Rica is composed of provinces, cantons, and districts. Within Costa Rica, there are 7 provinces, each composed of a series of cantons (totaling to 81 cantons throughout the country). Each of these cantons are then further divided into districts (totaling to 473 districts country wide). 
 
 ![](sanjose.png)
 
