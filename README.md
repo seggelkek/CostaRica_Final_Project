@@ -64,7 +64,7 @@ For the Buenos Aires canton, this is a particularly large problem given that the
 
 ### Topography's Impact
 
-![](Screen Shot 2019-11-22 at 1.01.25 AM)
+![](1.png)
 
 In general, most people in Costa Rica prefer to live at a moderate latitude. They avoid oxygen-deprived, cumbersome mountain peaks and also refrain from living in valleys with the potential of flooding in a rainforest climate. Given that many people in this area are mostly farmers, neither of these extremes would be beneficial for business. As far as transportation, road routes largely fall in the valleys. This would ease construction given that it allows for the lowest amount of land resurfacing. Roads are also easier to use if spread across flat land rather than rough terrain. Finally, health care facilities are indirectly affected by topography due to their reliance on human settlements and roadways; they must located in areas with population and road access. (The map above displays urban centers, roadways, and health centers overlaid over topography.)
 
