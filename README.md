@@ -76,4 +76,4 @@ In general, most people in Costa Rica prefer to live at a moderate latitude. The
 |Largest population: 13,684 people|# of secondary: 23               |# of people per facility: 2,168|
 |                                 |Length of roads: 576,396.6 meters|                               |
 
-This table gives the specifics of the Pérez Zeledón & Buenos Aires provinces for the areas disscussed above.
+This table gives the specifics of the Pérez Zeledón & Buenos Aires provinces for the concepts disscussed above.
