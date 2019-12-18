@@ -12,6 +12,11 @@ The map above provides a general overview of the country’s provinces, along wi
 
 ## Population Distribution of Costa Rica
 
+![](kaylaseggelkeproject1deliverable.png)
+![](ezgif.com-video-to-gif.gif)
+
+The above maps illustrate the population distribution of Costa Rica. The first set of plots illustrates how the population of Costa Rica is spread throughout the country, and the 3D plot shows the log of population by canton (with a higher position indicating a larger log of population).The population of the country is largely focused in the province of San José, which houses the capital city. The other higher levels of population are located throughout the north region of the country; this is likely sue to the fact that the northern beaches are very popular for tourism, leading to many workers and srvices focused in this area.
+ 
 ## Modeling the Population of Costa Rica
 
 ![](all.png)
@@ -37,3 +42,4 @@ Although none of these models were perfect in their predictions of Costa Rica’
 ![](differencesums.png)
 ![](gif.gif)
 
+##
