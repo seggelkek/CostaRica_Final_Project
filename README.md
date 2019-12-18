@@ -42,4 +42,38 @@ Although none of these models were perfect in their predictions of Costa Rica’
 ![](differencesums.png)
 ![](gif.gif)
 
-##
+## Description of Human Settlements, Roadways and Health Care Facilities throughout the Provinces of Pérez Zeledón and Buenos Aires
+
+![](project3final.png)
+
+### Human Settlements
+
+The population of Buenos Aires is about 48,800 people, and the population of Pérez Zeledón is approximately 142,000 people. This gives an overall population of 190,800 people for the combined adm3 areas. There are two main urban areas: one centered around the city of San Isidro in the canton of Pérez Zeledón and the other centered around the city of Buenos Aires in the canton of Buenos Aires. In addition, there are two small village-sized towns situated along the main road in between these two urban centers.
+
+Overall, the density and size of human settlements is an indication of the nature of the urban area, in terms of its identification of a city, town, etc., the services that it provides, and the infrastructure it holds. The map identifies four urban areas throughout the combined cantons. The area around the city of San Isidro in the northwest is by far the largest and densest of the four. Particularly, it is showing a population of about 50-60 thousand people with a density near 1000 people per square kilometer, likely indicating a well-established, intense urban center. The second largest urban focus is located east of central within the combined area. This area has a population of nearly 20,000 people and a density around 500 people per square kilometer. Although not as large of an urban area as San Isidro, these measurements would still indicate that Buenos Aires is a built-up, central city. Besides these larger urban areas, two small villages exist along the primary road in the center of the combined area. These villages have a density around 200 people per square kilometer and a size below 10,000 people. Both areas are likely established settlements but will not maintain the same level of infrastructure and services present in larger urban areas.
+
+### Roadways
+
+In regard to transportation, the area appears to serve its constituents well. All of the urban areas, representing large foci of people, are interconnected with the primary road, providing access between these centers of population, services, and infrastructure. Additionally, many of the secondary roads sprawl out to encompass anyone living in the more rural areas around the city, giving them access to the urban centers. The only areas with a blatant lack of roads are those lying along the northern border of the combined area. However, much of this area is mountainous, making it difficult to travel over and much sparser in terms of population. Therefore, overall, I believe that the transportation infrastructure in place allows for the movement of people between most areas of human settlement, whether urban or rural.
+
+### Health Care Facilities
+
+In regard to health care facilities, the combined area could certainly grant more convenient access to the constituents. Particularly, the Buenos Aires canton is lacking in its accessibly for health care. Many of the hospitals (depicted as purple dots) and the clinics (depicted as green dots) are centered around the main urban areas. While these facilities are very accessible to the large number of urban residents, they are not spatially convenient for many of those living in the rural areas. For those living along the border of the combined administrative areas, a long drive could cause trouble if in need of immediate medical attention. 
+
+For the Buenos Aires canton, this is a particularly large problem given that there is only one clinic to serve the entire eastern part of the administrative district. Anyone in need of more intense care would have to be transported to the single hospital located in the city, which could be over an hour away for some living on the outskirts. The potential for medical care should not be something that requires a long drive; the closer a medical facility is to a constituent, the greater their access to medical care and the lower the risk of complications due to lengthy travel. Additionally, the map does not even depict the entirety of the medical crisis in this area. The Buenos Aires canton is one of the most impoverished regions of Costa Rica. The one hospital located in this region lacks much of the infrastructure and equipment to address basic medical concerns, such as childbirth. Therefore, most mothers have to attempt the long, grueling drive to San Isidro while in labor. This endangers the child’s and the mother’s life due to the large number of births on the road and leads to an unproportionally high number of births registered in the Pérez Zeledón canton. As a result, the funding for this region is increased, leaving Buenos Aires even further beyond in poverty and worsening their outlook for improved medical care. Increasing the accessibility of health care in this area would not only make those in rural areas safer, but hopefully help to avoid concerns such as this.
+
+### Topography's Impact
+
+![](Screen Shot 2019-11-22 at 1.01.25 AM)
+
+In general, most people in Costa Rica prefer to live at a moderate latitude. They avoid oxygen-deprived, cumbersome mountain peaks and also refrain from living in valleys with the potential of flooding in a rainforest climate. Given that many people in this area are mostly farmers, neither of these extremes would be beneficial for business. As far as transportation, road routes largely fall in the valleys. This would ease construction given that it allows for the lowest amount of land resurfacing. Roads are also easier to use if spread across flat land rather than rough terrain. Finally, health care facilities are indirectly affected by topography due to their reliance on human settlements and roadways; they must located in areas with population and road access. (The map above displays urban centers, roadways, and health centers overlaid over topography.)
+
+## Overview Table
+
+| **Urban Populations**           | **Roadways**                    | **Healthcare Facilities**     |
+| ------------------------------- |:-------------------------------:| -----------------------------:|
+| # : 4                           |# of primary: 14                 |#:88                           |  
+|Largest population: 13,684 people|# of secondary: 23               |# of people per facility: 2,168|
+|                                 |Length of roads: 576,396.6 meters|                               |
+
+This table gives the specifics of the Pérez Zeledón & Buenos Aires provinces for the areas disscussed above.
